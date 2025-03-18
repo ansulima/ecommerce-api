@@ -1,7 +1,0 @@
-# Ignora arquivos do IntelliJ
-.idea/
-*.iml
-
-# Ignora arquivos do Spring Boot
-/target/
-!.mvn/wrapper/maven-wrapper.jar
